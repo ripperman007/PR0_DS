@@ -1,1 +1,1 @@
-PR0 Data Structure practise. Java
+PR0 Data Structure practice. Java
